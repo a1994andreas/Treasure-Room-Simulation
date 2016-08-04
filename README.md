@@ -1,6 +1,6 @@
 # Treasure-Room-Simulation
 
-On this game there is a treasure room (server) and two teams (clients), team A and team B.The perpuse of this game is to pick all the coins from the treasure room.
+On this game there is a treasure room (server) and two teams (clients), team A and team B.The purpose of this game is to pick all the coins from the treasure room.
 
 You insert the number of the coins available on the console
 - example:  ./server 200
